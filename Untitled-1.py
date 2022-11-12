@@ -4,7 +4,7 @@
 
 #res = float(a) + b + c
 #print(res)
-#res2 = float(b) * c
+#res2 = float(b) * c //
 #print(res2)
 
 
@@ -251,8 +251,8 @@
 
 
 
-a = 1
-while a > 10:
-  print("Введите значение ")
-  a += 1
+#a = 1
+#while a > 10:
+  #print("Введите значение ")
+ # a += 1
 
